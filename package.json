@@ -1,0 +1,15 @@
+{
+  "name": "integrating-mongodb-node",
+  "version": "1.0.0",
+  "description": "learning to connect mongodb to node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
